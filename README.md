@@ -17,7 +17,6 @@
 
   ### ⌛正在开发的项目(Projects under development)
 
-- <a href="https://github.com/Web-Wss/Partner-Matching-System" target="_blank">基于Vue3+SpringBoot+Redis开发的伙伴匹配系统💡</a>
 - <a href="https://github.com/Web-Wss/Product-Distribution-System" target="_blank">基于Vue3+SpringBoot开发的商品分销系统🎁</a>
 - [<a href="https://github.com/Web-Wss/TS-Snake-MiniGames" target="_blank">TypeScript编写的贪吃蛇小游戏⌨</a>](https://github.com/Web-Wss/TS-Snake-MiniGames)
 
