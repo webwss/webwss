@@ -18,6 +18,7 @@
   ### ⌛正在开发的项目(Projects under development)
 
 - <a href="https://github.com/Web-Wss/Product-Distribution-System" target="_blank">基于Vue3+SpringBoot开发的商品分销系统🎁</a>
+- <a href="https://github.com/Web-Wss/Product-Distribution-System" target="_blank">摄影作品展示平台📸</a>
 - [<a href="https://github.com/Web-Wss/TS-Snake-MiniGames" target="_blank">TypeScript编写的贪吃蛇小游戏⌨</a>](https://github.com/Web-Wss/TS-Snake-MiniGames)
 
 
@@ -28,4 +29,3 @@
   ### 交个朋友 👬🏻
 
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
