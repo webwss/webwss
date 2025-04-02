@@ -12,6 +12,8 @@
 
 ### ⌛正在开发的项目(Projects under development)
 
+👨‍💻 <a href="https://github.com/webwss/Talent-Pool" target="_blank">Talent-Pool（人才库系统）</a> 
+
 ### 交个朋友 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
