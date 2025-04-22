@@ -9,9 +9,8 @@
 
 
 <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
-
+<div align="left">
 
 - 👨‍💻接触编程7年+，工作码龄3年+，现为全栈开发工程师
 - 🏡 开源作品： <a href="https://github.com/Web-Wss/Forum" target="_blank">一款基于SSM+Vue开发的论坛系统</a> | <a href="https://github.com/Web-Wss/SpringBoot-Activity" target="_blank">一款基于SpringBoot+Vue的活动管理平台✨</a>  | <a href="https://github.com/Web-Wss/TS-Snake-MiniGames" target="_blank">TypeScript编写的贪吃蛇小游戏🎮</a>  | <a href="https://github.com/Web-Wss/YW-CAR" target="_blank">永旺二手车网站🚦</a>  | <a href="https://github.com/Web-Wss/SHCP" target="_blank">基于uniapp开发的校园二手平台小程序💰</a> | <a href="https://github.com/Web-Wss/React-Bill-Test" target="_blank">基于React开发的记账本📒</a>  | <a href="https://github.com/Web-Wss/Product-Distribution-System" target="_blank">基于Vue3+SpringBoot开发的商品分销系统🎁</a> | <a href="https://github.com/Web-Wss/Photography-Exhibition" target="_blank">摄影作品展示平台📸</a>
@@ -30,3 +29,7 @@
 ### 交个朋友 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
