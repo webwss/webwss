@@ -1,17 +1,5 @@
 ## Hi 我是Shuang👋
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-
-<div align="center">
-
-
-
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-
-<div align="left">
-
 - 👨‍💻接触编程7年+，工作码龄3年+，现为全栈开发工程师
 - 🏡 开源作品： <a href="https://github.com/Web-Wss/Forum" target="_blank">一款基于SSM+Vue开发的论坛系统</a> | <a href="https://github.com/Web-Wss/SpringBoot-Activity" target="_blank">一款基于SpringBoot+Vue的活动管理平台✨</a>  | <a href="https://github.com/Web-Wss/TS-Snake-MiniGames" target="_blank">TypeScript编写的贪吃蛇小游戏🎮</a>  | <a href="https://github.com/Web-Wss/YW-CAR" target="_blank">永旺二手车网站🚦</a>  | <a href="https://github.com/Web-Wss/SHCP" target="_blank">基于uniapp开发的校园二手平台小程序💰</a> | <a href="https://github.com/Web-Wss/React-Bill-Test" target="_blank">基于React开发的记账本📒</a>  | <a href="https://github.com/Web-Wss/Product-Distribution-System" target="_blank">基于Vue3+SpringBoot开发的商品分销系统🎁</a> | <a href="https://github.com/Web-Wss/Photography-Exhibition" target="_blank">摄影作品展示平台📸</a>
 - :pencil: 技术博客：[爽爽学编程💤](https://webwss.cn/) - 足够硬核，内容老狠了！
